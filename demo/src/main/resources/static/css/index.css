@@ -1,0 +1,21 @@
+.login_input_area {
+	margin: 20%;
+}
+
+#login_id, #login_pass, #btn_login {
+	display: block;
+	margin: 0 auto;
+}
+
+#login_id, #login_pass {
+	width: 220px;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid gray;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+#btn_login {
+    box-shadow: 2px 2px gray;
+}
